@@ -1,0 +1,348 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CryptoBanking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-30 11:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: archive-faq.php:7
+msgid "Frequently asked questions"
+msgstr ""
+
+#: archive-faq.php:41
+msgid "Can't find what you looking for?"
+msgstr ""
+
+#: archive-faq.php:44
+msgid "Ask away!"
+msgstr ""
+
+#: archive-faq.php:47
+msgid "Ask a Question"
+msgstr ""
+
+#: archive-faq.php:55
+msgid "Up"
+msgstr ""
+
+#: archive-faq.php:61
+msgid "Ask question"
+msgstr ""
+
+#: archive-faq.php:64
+msgid ""
+"If you have any questions about our service, you can ask them by filling out "
+"the form below"
+msgstr ""
+
+#: archive-faq.php:70
+msgid "Name"
+msgstr ""
+
+#: archive-faq.php:86
+msgid "Your ask"
+msgstr ""
+
+#: archive-faq.php:93 archive-faq.php:109 archive-faq.php:123
+#: page-support-en.php:55 page-support-en.php:69 page-support.php:55
+#: page-support.php:69 index.php:149 footer.php:18 footer.php:44
+msgid "Close"
+msgstr ""
+
+#: archive-faq.php:94
+msgid "Send question"
+msgstr ""
+
+#: archive-faq.php:105 page-support-en.php:51 page-support.php:51
+msgid "The question was successfully sent"
+msgstr ""
+
+#: archive-faq.php:110 archive-faq.php:124 page-support-en.php:56
+#: page-support-en.php:70 500.php:13 page-support.php:56 page-support.php:70
+#: 404.php:12
+msgid "Main page"
+msgstr ""
+
+#: archive-faq.php:119 page-support-en.php:65 page-support.php:65 footer.php:13
+msgid "Something went wrong, please try again later."
+msgstr ""
+
+#: header.php:22
+msgid "This field is required"
+msgstr ""
+
+#: header.php:23
+msgid "Please enter the valid value."
+msgstr ""
+
+#: header.php:24
+msgid "Enter the correct email address"
+msgstr ""
+
+#: header.php:25
+msgid "Please enter the correct URL"
+msgstr ""
+
+#: header.php:26
+msgid "Please enter the correct date."
+msgstr ""
+
+#: header.php:27
+msgid "Please enter the correct ISO format date."
+msgstr ""
+
+#: header.php:28
+msgid "Please enter the number."
+msgstr ""
+
+#: header.php:29
+msgid "Please enter only numbers."
+msgstr ""
+
+#: header.php:30
+msgid "Please enter the valid Credit Card Number."
+msgstr ""
+
+#: header.php:31
+msgid "Passwords do not match!"
+msgstr ""
+
+#: header.php:32
+msgid "Please select a file with the correct extension."
+msgstr ""
+
+#: header.php:33
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: header.php:34
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: header.php:35
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: header.php:36
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: header.php:37
+msgid "Please enter a number less than or equal to {0}."
+msgstr ""
+
+#: header.php:38
+msgid "Please enter a number greater than or equal to {0}."
+msgstr ""
+
+#: header.php:58
+msgid "About us"
+msgstr ""
+
+#: header.php:59
+msgid "Technical support"
+msgstr ""
+
+#: header.php:60 functions.php:26 functions.php:27
+msgid "FAQ"
+msgstr ""
+
+#: header.php:61 archive-news.php:7 functions.php:65
+msgid "News"
+msgstr ""
+
+#: header.php:62 functions.php:127
+msgid "Contacts"
+msgstr ""
+
+#: page-contacts.php:15 page-contacts-en.php:15 functions.php:129
+msgid "Contact number"
+msgstr ""
+
+#: page-contacts.php:39 page-contacts-en.php:39 functions.php:131
+msgid "Headquarter"
+msgstr ""
+
+#: single.php:13
+msgid "All news"
+msgstr ""
+
+#: single.php:48
+msgid "share on social networks"
+msgstr ""
+
+#: single.php:79
+msgid "Previous article"
+msgstr ""
+
+#: single.php:81
+msgid "Next article"
+msgstr ""
+
+#: archive-news.php:42
+msgid "No news"
+msgstr ""
+
+#: 500.php:10
+msgid "Unexpected error"
+msgstr ""
+
+#: index.php:10
+msgid "reliable"
+msgstr ""
+
+#: index.php:10
+msgid "transparent"
+msgstr ""
+
+#: index.php:10
+msgid "safe"
+msgstr ""
+
+#: index.php:53
+msgid "Mobile app"
+msgstr ""
+
+#: index.php:104
+msgid "More"
+msgstr ""
+
+#: index.php:141
+msgid "The application is under development."
+msgstr ""
+
+#: index.php:145
+msgid "Follow our news!"
+msgstr ""
+
+#: 404.php:11
+msgid "Page doesn't exist"
+msgstr ""
+
+#: functions.php:39
+msgid "Register query"
+msgstr ""
+
+#: functions.php:40
+msgid "Mail"
+msgstr ""
+
+#: functions.php:52 functions.php:53
+msgid "Quest"
+msgstr ""
+
+#: functions.php:123
+msgid "Site settings"
+msgstr ""
+
+#: functions.php:132
+msgid "Headquarter in english"
+msgstr ""
+
+#: functions.php:136 footer.php:66
+msgid "Support"
+msgstr ""
+
+#: functions.php:142
+msgid "Service"
+msgstr ""
+
+#: functions.php:144
+msgid "Register url"
+msgstr ""
+
+#: functions.php:145
+msgid "Login url"
+msgstr ""
+
+#: functions.php:146
+msgid "API url"
+msgstr ""
+
+#: functions.php:150
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:152
+msgid "More link on homepage"
+msgstr ""
+
+#: functions.php:160
+msgid "Socials"
+msgstr ""
+
+#: functions.php:162
+msgid "Telegram"
+msgstr ""
+
+#: functions.php:163
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:164
+msgid "VKontakte"
+msgstr ""
+
+#: functions.php:366
+msgid "Email is registered"
+msgstr ""
+
+#: functions.php:376
+msgid "Thank you! We will inform you about the opening of the service."
+msgstr ""
+
+#: footer.php:12
+msgid "The application has been successfully sent!"
+msgstr ""
+
+#: footer.php:26
+msgid "Registration subscription"
+msgstr ""
+
+#: footer.php:29
+msgid ""
+"Please leave us your E-mail. We will notify you when the service starts "
+"working."
+msgstr ""
+
+#: footer.php:45
+msgid "Send message"
+msgstr ""
+
+#: footer.php:60
+msgid "Cookies"
+msgstr ""
+
+#: footer.php:61
+msgid "Terms of use"
+msgstr ""
+
+#: footer.php:62
+msgid "Privacy policy"
+msgstr ""
+
+#: footer.php:72
+msgid "made by"
+msgstr ""
+
+#. Name of the theme
+msgid "CryptoBanking"
+msgstr ""
+
+#. Author of the theme
+msgid "TAGREE team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://tagree.ru/"
+msgstr ""
